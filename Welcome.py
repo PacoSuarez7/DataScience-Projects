@@ -5,7 +5,7 @@ import numpy as np
 st.set_page_config(
     page_title="Francisco Suarez Portfolio",
     page_icon="	:bar_chart:",
-   layout="wide",
+   #layout="wide",
    initial_sidebar_state="expanded",
 )
 
