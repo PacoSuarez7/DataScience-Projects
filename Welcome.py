@@ -4,7 +4,9 @@ import numpy as np
 
 st.set_page_config(
     page_title="Francisco Suarez Portfolio",
-    page_icon="",
+    page_icon="🧊",
+   layout="wide",
+   initial_sidebar_state="expanded",
 )
 
 st.title('Uber pickups in NYC')
