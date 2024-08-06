@@ -4,7 +4,7 @@ import numpy as np
 
 st.set_page_config(
     page_title="Francisco Suarez Portfolio",
-    page_icon=":flag-mx:",
+    page_icon=":hot_pepper:",
    layout="wide",
    initial_sidebar_state="expanded",
 )
